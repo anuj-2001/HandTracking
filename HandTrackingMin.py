@@ -2,6 +2,8 @@ import cv2
 import time
 import mediapipe as mp
 
+#first commit using pycharm
+
 cap = cv2.VideoCapture(0);
 
 while True:
